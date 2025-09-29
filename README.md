@@ -76,6 +76,9 @@
 ---
 
 ## 🎨 スクリーンショット
+<img width="1872" height="1854" alt="スクリーンショット (162)" src="https://github.com/user-attachments/assets/3bc854ba-d0d1-41a0-a158-d5813a19f05e" />
+
+<img width="1877" height="1835" alt="スクリーンショット (163)" src="https://github.com/user-attachments/assets/eed39dc2-de89-496b-a3ad-e1b9f8b733de" />
 
 <!-- プロジェクトのスクリーンショットを追加すると、より魅力的になります -->
 <!-- 
@@ -85,7 +88,7 @@
 </div>
 -->
 
-> 📸 スクリーンショット準備中...
+> 📸 SeaSideスクリーンショット準備中...
 
 ---
 
@@ -121,7 +124,7 @@
 <div align="center">
   <p>
     <b>コードとUXのバランスを大切に。</b><br/>
-    きれいな設計ができるようになりたいです。
+    きれいな設計ができるように日々学習中。
   </p>
   
   <sub>⭐️ From [Takeru-13](https://github.com/Takeru-13)</sub>
