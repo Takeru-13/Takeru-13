@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!-- Hero -->
 <div align="center">
   <h1>こんにちは、たけるです 👋</h1>
-  <p>フロントエンド中心のフルスタック志望。<br/>
+  <p>ウェブエンジニア志望。<br/>
   <b>TypeScript / React / NestJS / Prisma / PostgreSQL</b>で<br/>
   「使って気持ちいい」体験を作るのが好き。</p>
 
