@@ -1,4 +1,4 @@
-<img width="752" height="1241" alt="スクリーンショット 2025-07-20 180354" src="https://github.com/user-attachments/assets/d3c7e3dd-109a-49c1-bdef-ac90ec6c1512" /># Hi there 👋
+# Hi there 👋
 
 <div align="center">
   <h2>🌊 ウェブエンジニア志望</h2>
@@ -9,11 +9,8 @@
   
   <!-- Tech badges -->
   <p>
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
-    <img alt="React" src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB"/>
-    <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white"/>
-    <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white"/>
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
+<img width="3840" height="2160" alt="スクリーンショット (42)" src="https://github.com/user-attachments/assets/afef2ef0-61de-4171-bfa0-fbb50f29230c" />
+<img width="3840" height="2160" alt="スクリーンショット (52)" src="https://github.com/user-attachments/assets/8d151570-95ca-449b-991d-3c853bdc27c8" />
 
   </p>
 </div>
