@@ -1,4 +1,4 @@
-# Hi there 👋
+<img width="752" height="1241" alt="スクリーンショット 2025-07-20 180354" src="https://github.com/user-attachments/assets/d3c7e3dd-109a-49c1-bdef-ac90ec6c1512" /># Hi there 👋
 
 <div align="center">
   <h2>🌊 ウェブエンジニア志望</h2>
@@ -77,15 +77,12 @@
 
 ## 🎨 スクリーンショット
 
-<!-- プロジェクトのスクリーンショットを追加すると、より魅力的になります -->
-<!-- 
-<div align="center">
-  <img src="images/seaside-mobile.png" width="300" alt="SeaSide Screenshot"/>
-  <img src="images/trophy-home.png" width="300" alt="My Trophy Screenshot"/>
-</div>
--->
+<img width="3840" height="2160" alt="スクリーンショット (42)" src="https://github.com/user-attachments/assets/5eb2e2fc-9f00-4bea-9d9b-fb7cd23777d1" />
 
-> 📸 スクリーンショット準備中...
+<img width="3840" height="2160" alt="スクリーンショット (39)" src="https://github.com/user-attachments/assets/512bfa98-5ec7-419f-968b-8dacf9d241fb" />
+<img width="752" height="1241" alt="スクリーンショット 2025-07-20 180354" src="https://github.com/user-attachments/assets/d67b8b22-7190-4850-8c00-565488c81d82" />
+
+> 📸 SeaSideスクリーンショット準備中...
 
 ---
 
