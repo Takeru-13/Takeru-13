@@ -85,5 +85,5 @@ Here are some ideas to get you started:
 ---
 <p align="center">
   コードとUXのバランスを大切に。<br/>
-  きれいな設計と、気持ちいいUIが好きです。
+  きれいな設計ができるようになりたいです。
 </p>
