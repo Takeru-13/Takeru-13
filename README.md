@@ -1,131 +1,61 @@
-# Hi there 👋
-
-<div align="center">
-  <h2>🌊 ウェブエンジニア志望</h2>
-  <p>
-    <b>TypeScript / React / NestJS / Prisma / PostgreSQL</b>で<br/>
-    「使って気持ちいい」体験を作るのが好きです。
-  </p>
-  
-  <!-- Tech badges -->
-  <p>
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
-    <img alt="React" src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB"/>
-    <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white"/>
-    <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white"/>
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
-    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black"/>
-  </p>
-</div>
+<!-- ヘッダー -->
+<h1 align="center">Hi, I'm {Your Name} / ユーちゃん 👋</h1>
+<p align="center">
+  Frontend-focused Full-stack Developer (React + TypeScript / NestJS + PostgreSQL)
+</p>
 
 ---
 
-## 🔭 最近のメインプロジェクト
+## TL;DR
+- **志望**：フロントエンド（React/TypeScript）中心のWebエンジニア  
+- **得意**：UI/UX実装、設計分離（Page→Slice Barrel）、型安全API、モバイルファースト  
+- **稼働**：{開始可能日 or すぐに稼働可}、フルタイム希望（リモート/秋田周辺 応相談）
 
-### 🌊 SeaSide
-**ペア向け感情・体調トラッカー（モバイルファースト）**
-
-[![Website](https://img.shields.io/badge/🌐_Live_Demo-4A90E2?style=for-the-badge)](https://your-seaside-url.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Takeru-13/seaside)
-
-**Tech Stack:** TypeScript / React (Vite) / NestJS / Prisma / PostgreSQL
-
-**主な機能:**
-- カレンダー中心のUI設計
-- 日次の感情・体調記録
-- ペア連携機能
-- データ可視化（グラフ表示）
+## Skills
+- **Frontend**：React, TypeScript, Vite, React Router, CSS Modules
+- **Backend**：NestJS, Node.js, Prisma, PostgreSQL (Neon)
+- **Infra/Deploy**：Netlify, Render/Railway, CI/CD（GitHub Actions 検討中）
+- **Others**：設計（Redline Flow / Slice設計）, 画像・OGP作成, SVG/CSSアニメ
 
 ---
 
-### 🏆 My Trophy
-**人生の実績を"トロフィー"で可視化するアプリ**
+## Featured Projects
+### 1. SeaSide – 感情・習慣・体調を“海辺”で記録するカレンダー
+- **Demo**：{本番URL} ｜ **Code**：[{GitHub: SeaSide-app}](https://github.com/Takeru-13/SeaSide-app)
+- **一言**：モバイルファースト。ペア共有、月次グラフ、ゼンモード背景。
+- **技術**：React + TS, NestJS, Prisma, PostgreSQL(Neon), Netlify/Render  
+- **役割**：フロント/バック実装、DB設計、デプロイ、UIデザイン  
+- **見どころ**：  
+  - Slice構成（Page→slice barrel）で依存方向を明確化  
+  - Cookie認証（`credentials: 'include'`）で安全なセッション管理  
+  - カスタム背景・星/波アニメーション最適化（低負荷CSS/JS）
 
-[![Website](https://img.shields.io/badge/🌐_Live_Demo-FFD700?style=for-the-badge)](https://your-trophy-url.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Takeru-13/my-trophy)
+### 2. My Trophy – デジタルトロフィーのコレクション
+- **Demo**：{URL} ｜ **Code**：{GitHub リンク}
+- **技術**：React, Firebase Auth, Firestore
+- **ポイント**：ランク別ポイント/レベル表示、最近のトロフィー一覧、グッド/コメント
 
-**Tech Stack:** React / Firebase（Auth + Firestore）
+### 3. Midnight-Talk – 深夜限定匿名チャット（学習プロジェクト）
+- **Demo**：{URL} ｜ **Code**：{GitHub リンク}
+- **技術**：TypeScript, React, Express, PostgreSQL, Canvas
 
-**主な機能:**
-- ゲーム風トロフィーシステム
-- 達成度の可視化
-- リアルタイムデータ同期
-
----
-
-## 🧩 スキルセット
-
-### フロントエンド
-- React, React Router, 状態管理（軽量志向）
-- CSS Modules, レスポンシブデザイン
-- UI/UX設計
-
-### バックエンド
-- NestJS（認証 / DTO / DI パターン）
-- Prisma（Schema設計 / Migration管理）
-- RESTful API設計
-
-### データベース
-- PostgreSQL（設計・Index・運用の基礎）
-
-### インフラ & ツール
-- Git / GitHub
-- GitHub Actions（CI/CD）
-- デプロイ: Netlify / Railway / Render
+> スクリーンショットを `/assets/` に置き、各プロジェクトの直下に1枚貼ると強いです。
 
 ---
 
-## 🎨 スクリーンショット
-<img width="1872" height="1854" alt="スクリーンショット (162)" src="https://github.com/user-attachments/assets/3bc854ba-d0d1-41a0-a158-d5813a19f05e" />
-
-<img width="1877" height="1835" alt="スクリーンショット (163)" src="https://github.com/user-attachments/assets/eed39dc2-de89-496b-a3ad-e1b9f8b733de" />
-
-<!-- プロジェクトのスクリーンショットを追加すると、より魅力的になります -->
-<!-- 
-<div align="center">
-  <img src="images/seaside-mobile.png" width="300" alt="SeaSide Screenshot"/>
-  <img src="images/trophy-home.png" width="300" alt="My Trophy Screenshot"/>
-</div>
--->
-
-> 📸 SeaSideスクリーンショット準備中...
+## How I Work / 開発スタイル
+- **Redline Flow**：契約→APIスタブ→Form→Hook→Page→API差し替えの縦割りで高速に  
+- **責務分離**：Hookは状態と最小バリデーションのみ、通信はAPI層に集約  
+- **モバイル優先**：横スクロール回避、タップ領域/可読性を最優先
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Takeru-13&show_icons=true&theme=default&hide_title=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takeru-13&layout=compact&langs_count=6" height="150"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Takeru-13&theme=default" height="150"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Takeru-13&theme=flat&no-frame=true&margin-w=10&column=7" />
-</div>
+## Resume / Contact
+- **Resume (PDF)**：[Download](./assets/CV.pdf)
+- **Email**：{your@email}  
+- **X / LinkedIn**：{リンク}
+- **Location**：Japan (JST)
 
 ---
 
-## 💬 Contact
-
-<div align="center">
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-url.com)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your_handle)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-  
-</div>
-
----
-
-<div align="center">
-  <p>
-    <b>コードとUXのバランスを大切に。</b><br/>
-    きれいな設計ができるように日々学習中。
-  </p>
-  
-  <sub>⭐️ From [Takeru-13](https://github.com/Takeru-13)</sub>
-</div>
+<sub>Last updated: {YYYY-MM-DD}</sub>
