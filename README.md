@@ -20,7 +20,7 @@
 ### 🎖 MyTrophy
 <img width="2000" height="600" alt="1" src="https://github.com/user-attachments/assets/bbdc5c19-4258-4450-8695-17446b1512ad" />
 
-[🔗 アプリを見る](https://mytrophy.example.com) | [💻 ソースコード](https://github.com/Takeru-13/MyTrophy)  
+[🔗 アプリを見る](https://mytrophy.netlify.app/) | [💻 ソースコード](https://github.com/Takeru-13/MyTrophy)  
 
 - **使用技術**: React, Firebase Auth, Firestore, Netlify  
 - **内容**: 自分の「人生のトロフィー」を登録し、レベルや経験値バーで可視化できるアプリ。  
@@ -31,7 +31,7 @@
 ### 🌊 SeaSide
 <img width="2000" height="600" alt="2" src="https://github.com/user-attachments/assets/cb8c3971-acd6-421d-a140-08971df54149" />
 
-[🔗 アプリを見る](https://seaside.example.com) | [💻 ソースコード](https://github.com/Takeru-13/SeaSide-app)  
+[🔗 アプリを見る](https://seaside.example.com) | [💻 ソースコード][(https://github.com/Takeru-13/SeaSide-app)](https://seasede-app.netlify.app/)  
 
 - **使用技術**: React + TypeScript, NestJS, Prisma, PostgreSQL, Netlify, Render, Neon  
 - **内容**: 感情・生活習慣をカレンダー形式で記録できるアプリ。  
@@ -42,7 +42,7 @@
 ### 🌳 TreeView Generator
 <img width="2000" height="600" alt="3" src="https://github.com/user-attachments/assets/cc1e7a63-e26c-495b-9d89-f393afb8e1c3" />
 
-[🔗 アプリを見る](https://treeview.example.com) | [💻 ソースコード](https://github.com/Takeru-13/TreeView-Generator)  
+[🔗 アプリを見る][(https://treeview.example.com](https://treeviewgenerator.netlify.app/)) | [💻 ソースコード](https://github.com/Takeru-13/TreeView-Generator)  
 
 - **使用技術**: React, TypeScript, CSS Modules  
 - **内容**: ディレクトリ構造を入力すると、TreeView形式に自動整形して出力する便利ツール。  
