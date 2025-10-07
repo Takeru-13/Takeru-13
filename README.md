@@ -18,7 +18,8 @@
 ## 📱 Projects
 
 ### 🎖 MyTrophy
-<img width="2000" height="600" alt="2" src="https://github.com/user-attachments/assets/13931d40-311f-4e26-9370-1499fdf870e1" />
+<img width="2000" height="600" alt="1" src="https://github.com/user-attachments/assets/bbdc5c19-4258-4450-8695-17446b1512ad" />
+
 [🔗 アプリを見る](https://mytrophy.example.com) | [💻 ソースコード](https://github.com/Takeru-13/MyTrophy)  
 
 - **使用技術**: React, Firebase Auth, Firestore, Netlify  
@@ -37,9 +38,10 @@
   パートナーと共有できる「ペアモード」、月ごとのグラフ、Zenモード背景など遊び心を盛り込んだ。  
 
 ---
-<img width="1536" height="1024" alt="ogp" src="https://github.com/user-attachments/assets/25461432-daef-4f4e-9d48-cbaa3c47eec7" />
+
 ### 🌳 TreeView Generator
-![banner](./assets/treeview-banner.png)  
+<img width="2000" height="600" alt="3" src="https://github.com/user-attachments/assets/cc1e7a63-e26c-495b-9d89-f393afb8e1c3" />
+
 [🔗 アプリを見る](https://treeview.example.com) | [💻 ソースコード](https://github.com/Takeru-13/TreeView-Generator)  
 
 - **使用技術**: React, TypeScript, CSS Modules  
