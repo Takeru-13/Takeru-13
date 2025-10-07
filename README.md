@@ -4,9 +4,10 @@
 こんにちは、坂本武龍（Takeru）です。  
 日々、Webアプリ開発を学びながらポートフォリオを積み上げています。  
 「シンプルだけど遊び心のあるデザイン」を意識し、  
-使う人に楽しんでもらえるUI/UXを目指しています。  
+使う人に楽しんでもらえるUI/UXを目指しています。
 
----
+
+
 
 ## 🛠 Tech Stack
 <!-- ここはアイコンを並べてもいいし、グラフサービス(shields.ioやgithub-readme-stats)を埋め込むのもアリ -->
@@ -17,7 +18,7 @@
 ## 📱 Projects
 
 ### 🎖 MyTrophy
-![banner](./assets/mytrophy-banner.png)  
+<img width="2000" height="600" alt="2" src="https://github.com/user-attachments/assets/13931d40-311f-4e26-9370-1499fdf870e1" />
 [🔗 アプリを見る](https://mytrophy.example.com) | [💻 ソースコード](https://github.com/Takeru-13/MyTrophy)  
 
 - **使用技術**: React, Firebase Auth, Firestore, Netlify  
@@ -27,7 +28,8 @@
 ---
 
 ### 🌊 SeaSide
-![banner](./assets/seaside-banner.png)  
+<img width="2000" height="600" alt="2" src="https://github.com/user-attachments/assets/cb8c3971-acd6-421d-a140-08971df54149" />
+
 [🔗 アプリを見る](https://seaside.example.com) | [💻 ソースコード](https://github.com/Takeru-13/SeaSide-app)  
 
 - **使用技術**: React + TypeScript, NestJS, Prisma, PostgreSQL, Netlify, Render, Neon  
@@ -35,7 +37,7 @@
   パートナーと共有できる「ペアモード」、月ごとのグラフ、Zenモード背景など遊び心を盛り込んだ。  
 
 ---
-
+<img width="1536" height="1024" alt="ogp" src="https://github.com/user-attachments/assets/25461432-daef-4f4e-9d48-cbaa3c47eec7" />
 ### 🌳 TreeView Generator
 ![banner](./assets/treeview-banner.png)  
 [🔗 アプリを見る](https://treeview.example.com) | [💻 ソースコード](https://github.com/Takeru-13/TreeView-Generator)  
