@@ -52,6 +52,7 @@
 
 ## 🌱 Contribution
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Takeru-13&show_icons=true&theme=react)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&theme=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Takeru-13&layout=compact&theme=react)  
 
 ---
