@@ -18,7 +18,7 @@
 ## 📱 Projects
 
 ### 🎖 MyTrophy
-<img width="2000" height="600" alt="1" src="https://github.com/user-attachments/assets/bbdc5c19-4258-4450-8695-17446b1512ad" />
+<img width="2000" style="max-width: 100%; height: auto; alt="1" src="https://github.com/user-attachments/assets/bbdc5c19-4258-4450-8695-17446b1512ad" />
 
 [🔗 アプリを見る](https://mytrophy.netlify.app/) | [💻 ソースコード](https://github.com/Takeru-13/MyTrophy)  
 
