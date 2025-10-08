@@ -52,15 +52,6 @@
 
 
 
-## 🎯 Goals
-- 2025年内にWebエンジニアとして就職し、チーム開発に参加する  
-- TypeScriptとReactの実務レベル習熟  
-- NestJS + PostgreSQLでのバックエンド力強化
-- 設計思想の学習
-- UI/UXデザインのスキルアップ  
-
----
 
 
-
-📫 お問い合わせは [メール](mailto:nekujianqi@gmail.com) からどうぞ。
+ [メール](mailto:nekujianqi@gmail.com)
