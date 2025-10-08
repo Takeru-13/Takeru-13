@@ -23,6 +23,7 @@
 - **使用技術**: React, Firebase Auth, Firestore, Netlify  
 - **内容**: 自分の「人生のトロフィー」を登録し、レベルや経験値バーで可視化できるアプリ。
 
+
 ---
 
 
@@ -54,7 +55,8 @@
 ## 🎯 Goals
 - 2025年内にWebエンジニアとして就職し、チーム開発に参加する  
 - TypeScriptとReactの実務レベル習熟  
-- NestJS + PostgreSQLでのバックエンド力強化  
+- NestJS + PostgreSQLでのバックエンド力強化
+- 設計思想の学習
 - UI/UXデザインのスキルアップ  
 
 ---
