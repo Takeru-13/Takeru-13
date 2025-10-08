@@ -1,4 +1,4 @@
-# 🌊 SeaSide – Portfolio by Takeru
+# – Portfolio by Takeru
 
 ## 👋 About Me
 こんにちは、坂本武龍（Takeru）です。  
